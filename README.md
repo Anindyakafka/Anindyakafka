@@ -1,9 +1,8 @@
 <h3 align="center">রুমালটা বলল, মিঁয়াও!<br>কী আপদ!<br>রুমালটা মিঁয়াও করে কেন?</h3>
 
 
-<div align="center">
-<[![GitHub Streak](https://streak-stats.demolab.com?user=Anindyakafka&theme=dracula&hide_border=true&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)/>
-</div>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Anindyakafka&theme=dracula&hide_border=true&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 ###
 
