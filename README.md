@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Anindyakafka&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+[![GitHub Streak](https://streak-stats.demolab.com?user=Anindyakafka&theme=dracula&hide_border=true&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 </div>
 
 ###
